@@ -1,1 +1,2 @@
 ![image alt](https://github.com/Mehulsahu555/Calculator-android/blob/6dec3d4b64fdc1a9395975daea36607bab6d4d6f/image.png)
+This is a simple "Calculator Android App" developed using "Java in Android Studio". The app can perform basic operations like addition, subtraction, multiplication, and division. A "splash screen" is added to show the app logo when the app starts. The project has a simple and user-friendly interface. This project helped me learn basic "Android development and Java programming" as a BCA student.
